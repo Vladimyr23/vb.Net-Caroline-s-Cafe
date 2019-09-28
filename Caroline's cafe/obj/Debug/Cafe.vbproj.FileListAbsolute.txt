@@ -1,0 +1,11 @@
+D:\visual studio 2015\Projects\Caroline's cafe\Caroline's cafe\obj\Debug\Caroline_s_cafe.Cafe.resources
+D:\visual studio 2015\Projects\Caroline's cafe\Caroline's cafe\obj\Debug\Caroline_s_cafe.Resources.resources
+D:\visual studio 2015\Projects\Caroline's cafe\Caroline's cafe\obj\Debug\Cafe.vbproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\Caroline's cafe\Caroline's cafe\bin\Debug\Caroline_s_cafe.exe.config
+D:\visual studio 2015\Projects\Caroline's cafe\Caroline's cafe\bin\Debug\Caroline_s_cafe.exe
+D:\visual studio 2015\Projects\Caroline's cafe\Caroline's cafe\bin\Debug\Caroline_s_cafe.pdb
+D:\visual studio 2015\Projects\Caroline's cafe\Caroline's cafe\bin\Debug\Caroline_s_cafe.xml
+D:\visual studio 2015\Projects\Caroline's cafe\Caroline's cafe\obj\Debug\Caroline_s_cafe.exe
+D:\visual studio 2015\Projects\Caroline's cafe\Caroline's cafe\obj\Debug\Caroline_s_cafe.xml
+D:\visual studio 2015\Projects\Caroline's cafe\Caroline's cafe\obj\Debug\Caroline_s_cafe.pdb
+D:\visual studio 2015\Projects\Caroline's cafe\Caroline's cafe\obj\Debug\Cafe.vbprojResolveAssemblyReference.cache
